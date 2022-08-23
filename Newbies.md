@@ -1,4 +1,4 @@
-__NEWBIEW_1: ________
+NEWBIEW_1: Hello
 ____NEWBIEW_2: ________
 NEWBIEW_3: ________
 NEWBIEW_4: ________
