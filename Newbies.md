@@ -1,7 +1,7 @@
 NEWBIEW_1: Hello
 NEWBIEW_2: hello
 NEWBIEW_3: ________
-NEWBIEW_4: ________
+NEWBIEW_4: test
 NEWBIEW_5: ________
 NEWBIEW_6: ________
 NEWBIEW_7: ________
