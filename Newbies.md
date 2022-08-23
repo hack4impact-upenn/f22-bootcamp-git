@@ -4,7 +4,7 @@ NEWBIEW_3: ________
 NEWBIEW_4: test
 NEWBIEW_5: ________
 NEWBIEW_6: ________
-NEWBIEW_7: ________
+NEWBIEW_7: Hi
 NEWBIEW_8: ________
 NEWBIEW_9: ________
 NEWBIEW_10: ________
