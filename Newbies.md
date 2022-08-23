@@ -1,10 +1,20 @@
-NEWBIEW_1: Hello
-NEWBIEW_2: hello
-NEWBIEW_3: ________
-NEWBIEW_4: ________
-NEWBIEW_5: ________
-NEWBIEW_6: ________
-NEWBIEW_7: Hi
-NEWBIEW_8: ________
-NEWBIEW_9: ________
-NEWBIEW_10: ________
+# Git / Github Tasks
+
+On this file you will see a list of names.
+Create a new branch and name it '<yourName_merge_task>'
+Infront of your name, type out your favourite song at the moment.
+After that commit and push your changes on your branch
+Go to github and open a PR
+We will make changes and push them to master on our end
+You will then have to pull our master branch and merge with your local branch
+Resolve all the conflicts you get and once your branch is clear, merge it with master
+
+Name_1: 
+Name_2:
+Name_3:
+Name_4:
+Name_5: 
+Name_6:
+Name_7:
+Name_8:
+
