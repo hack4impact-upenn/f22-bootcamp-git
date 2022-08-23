@@ -1,5 +1,5 @@
-NEWBIEW_1: ________
-NEWBIEW_2: ________
+__NEWBIEW_1: ________
+____NEWBIEW_2: ________
 NEWBIEW_3: ________
 NEWBIEW_4: ________
 NEWBIEW_5: ________
