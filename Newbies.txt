@@ -9,7 +9,7 @@ Git / Github Tasks
 - You will then have to pull our master branch and merge with your local branch
 - Resolve all the conflicts you get and once your branch is clear, merge it with master
 
-Name_1: 
+Name_1: Atletico Madrid
 Name_2:
 Name_3:
 Name_4:
