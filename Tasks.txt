@@ -1,13 +1,10 @@
 Git / Github Tasks
 
-Part 1: Branching, Committing, and Merging
+Part 1: Branching, Comitting, and Merging
 
 - Clone this repo to your local machine
 - Create a branch with your name
 - Write a description of yourself
-Hi! I'm Tara, a freshman from Palo Alto, California. I'm studying Computer Science and undecided in Wharton,
-and I love to do yoga, hike/do anything outdoors, and eat dessert :)
-- Commit the changes and make a PR
 - Review someone else's PR
 - Merge your changes
 - Pull other people's changes
