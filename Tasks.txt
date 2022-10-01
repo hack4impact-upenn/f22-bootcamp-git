@@ -1,0 +1,22 @@
+Git / Github Tasks
+
+Part 1: Branching, Comitting, and Merging
+
+- Clone this repo to your local machine
+- Create a branch with your name
+- Write a description of yourself
+- Commit the changes and make a PR
+- Review someone else's PR
+- Merge your changes
+- Pull other people's changes
+
+Part 2: Merge Conflicts
+
+- After the last line in your file, add a new line with some additional text, eg: favourite sports team
+- Commit your changes and try to merge into master when we let you know 
+- Notice that there is not a merge conflict
+- Pull master and merge it into your own branch
+- Resolve all conflicts you get
+- Merge your resolved code
+
+
