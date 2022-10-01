@@ -1,3 +1,4 @@
 Hi! I'm Tara, a freshman from Palo Alto, California. I'm studying Computer Science and undecided in Wharton,
 and I love to do yoga, hike/do anything outdoors, and eat dessert :)
 - Commit the changes and make a PR
+merge conflict
