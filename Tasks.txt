@@ -5,7 +5,6 @@ Part 1: Branching, Comitting, and Merging
 - Clone this repo to your local machine
 - Create a branch with your name
 - Write a description of yourself
-- Commit the changes and make a PR
 - Review someone else's PR
 - Merge your changes
 - Pull other people's changes
