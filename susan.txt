@@ -1,2 +1,2 @@
 Hi I'm Susan! I'm in engineering studying CIS :) I like boba
-merge conflict
+hi
