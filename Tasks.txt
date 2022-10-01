@@ -19,3 +19,4 @@ Part 2: Merge Conflicts
 - Merge your resolved code
 
 - I want to make a change
+- New change
