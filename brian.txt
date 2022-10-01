@@ -3,3 +3,6 @@ hi this is brian
 - sophomore
 - studying cis
 - from the philly suburbs
+
+
+random other merge conflict comment here
